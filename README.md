@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=02731B&center=true&vCenter=true&width=800&lines=Hello+I'm+Faisal;Fullstack+Developer;Tech+Enthusiast" />
 </h1>
 
-<table align="center" valign="middle">
+<table align="left" valign="middle">
   <tr>
     <td align="left" valign="middle">
       <a href="https://github.com/drx347">
