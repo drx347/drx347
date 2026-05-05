@@ -6,11 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=02731B&center=true&vCenter=true&width=800&lines=Hello+I'm+Faisal;Fullstack+Developer;Tech+Enthusiast" />
 </h1>
 
-<table align="left" valign="middle">
+<table align="center">
   <tr>
     <td align="left" valign="middle">
       <a href="https://github.com/drx347">
         <img src="https://komarev.com/ghpvc/?username=drx347&label=PROFILE%20VIEWS&color=02731B&style=for-the-badge&labelColor=0d1117" alt="profile views" />
+      </a>
+      <a href="https://github.com/drx347?tab=followers">
+        <img src="https://img.shields.io/github/followers/drx347?label=FOLLOWERS&style=for-the-badge&color=02731B&labelColor=0d1117&logo=github" alt="github followers" />
       </a>
       <a href="https://github.com/drx347/drx347">
         <img src="https://img.shields.io/github/stars/drx347/drx347?label=STARS&style=for-the-badge&color=02731B&labelColor=0d1117&logo=github" alt="repo stars" />
@@ -21,7 +24,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 <h3 align="center">
