@@ -1,0 +1,42 @@
+[
+  {
+    "quote": "Everybody in this country should learn how to program a computer, because it teaches you how to think.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
+  },
+  {
+    "quote": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman"
+  },
+  {
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
+  },
+  {
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay"
+  },
+  {
+    "quote": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth"
+  },
+  {
+    "quote": "Any sufficiently advanced technology is indistinguishable from magic.",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "quote": "Code is like humor. When you have to explain it, it’s bad.",
+    "author": "Cory House"
+  }
+]

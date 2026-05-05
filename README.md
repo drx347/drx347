@@ -20,7 +20,7 @@
       </a>
     </td>
     <td align="right" valign="middle" style="padding: 16px;">
-      <img src="https://lanyard.cnrad.dev/api/975269168184168539?&borderRadius=18px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." alt="discord status" />
+      <img src="https://lanyard.cnrad.dev/api/975269168184168539?bg=ffffff&borderRadius=18px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." alt="discord status" />
     </td>
   </tr>
 </table>
@@ -31,17 +31,52 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Tech+Stack" />
 </h3>
 
-<p align="center">
+<p align="left"><strong>Frontend</strong></p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,firebase,mysql&theme=dark" />
+<p align="left"><strong>Backend & Databases</strong></p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,firebase&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left"><strong>Tools & Infrastructure</strong></p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux&theme=dark" />
 </p>
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=About+Me" />
+</h3>
+
+```text
+I build things I find interesting.
+Some are useful, some are experimental,
+but all of them are part of a continuous learning process.
+
+▸ Web applications
+▸ Automation and bots
+▸ Small experiments
+```
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Current+Focus+On" />
+</h3>
+
+```text
+Fullstack web development
+Automation systems
+Artificial intelligence and emerging technologies
+Found bug on some website
+```
 
 ---
 
@@ -60,8 +95,8 @@
     </td>
     <td>
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drx347&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=false&border_color=d0d7de&title_color=02731B&text_color=24292f&bg_color=ffffff&cache_seconds=21600"
-        alt="Most used languages"
+        src="./assets/github-language-stats.svg"
+        alt="Most used languages calculated by file size"
         height="195"
       />
     </td>

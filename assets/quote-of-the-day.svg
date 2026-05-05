@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f16"/>
+      <stop offset="100%" stop-color="#05070b"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#141a25"/>
+      <stop offset="100%" stop-color="#0f1420"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="240" fill="url(#bg)"/>
+
+  <text x="60" y="48" font-family="VT323, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="44" fill="#ff4d4d">
+    ◇ Quote of the Day
+  </text>
+
+  <g filter="url(#shadow)">
+    <rect x="40" y="70" width="1120" height="150" rx="18" fill="url(#card)" stroke="#1f2937" stroke-width="2"/>
+  </g>
+
+  <text x="110" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" fill="#22d3ee">
+    <tspan fill="#a855f7">“</tspan>
+    Any sufficiently advanced technology is indistinguishable from
+  <tspan x="110" y="156">magic.</tspan>
+    <tspan fill="#a855f7">”</tspan>
+  </text>
+
+  <text x="1090" y="190" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="28" fill="#60a5fa">
+    - Arthur C. Clarke
+  </text>
+</svg>
