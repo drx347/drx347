@@ -13,14 +13,14 @@
 <table align="center">
   <tr>
     <td align="left" valign="middle">
-      <a href="https://github.com/drxdvs">
-        <img src="https://komarev.com/ghpvc/?username=drxdvs&label=PROFILE%20VIEWS&color=02731B&style=for-the-badge&labelColor=0d1117" alt="profile views" />
+      <a href="https://github.com/drx347">
+        <img src="https://komarev.com/ghpvc/?username=drx347&label=PROFILE%20VIEWS&color=02731B&style=for-the-badge&labelColor=0d1117" alt="profile views" />
       </a>
-      <a href="https://github.com/drxdvs?tab=followers">
-        <img src="https://img.shields.io/github/followers/drxdvs?label=FOLLOWERS&style=for-the-badge&color=02731B&labelColor=0d1117&logo=github" alt="github followers" />
+      <a href="https://github.com/drx347?tab=followers">
+        <img src="https://img.shields.io/github/followers/drx347?label=FOLLOWERS&style=for-the-badge&color=02731B&labelColor=0d1117&logo=github" alt="github followers" />
       </a>
-      <a href="https://github.com/drxdvs/drxdvs">
-        <img src="https://img.shields.io/github/stars/drxdvs/drxdvs?label=STARS&style=for-the-badge&color=02731B&labelColor=0d1117&logo=github" alt="repo stars" />
+      <a href="https://github.com/drx347/drx347">
+        <img src="https://img.shields.io/github/stars/drx347/drx347?label=STARS&style=for-the-badge&color=02731B&labelColor=0d1117&logo=github" alt="repo stars" />
       </a>
     </td>
     <td align="right" valign="middle">
@@ -88,8 +88,8 @@ but all of them are part of a continuous learning process.
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=drxdvs&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drxdvs&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=drx347&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drx347&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -114,18 +114,14 @@ but all of them are part of a continuous learning process.
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=46&pause=2000&color=02731B&center=true&vCenter=true&width=800&lines=Quote+Of+The+Day" />
 </h3>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img
-        src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everybody%20in%20this%20country%20should%20learn%20how%20to%20program%20a%20computer%2C%20because%20it%20teaches%20you%20how%20to%20think.&author=Steve%20Jobs&border=true&borderColor=1f2937"
-        alt="Everybody in this country should learn how to program a computer, because it teaches you how to think. — Steve Jobs"
-        width="100%"
-        style="max-width: 1200px;"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="./assets/quote-of-the-day.svg"
+    alt="Quote of the day"
+    width="100%"
+    style="max-width: 1200px;"
+  />
+</p>
 
 ---
 
@@ -134,7 +130,7 @@ but all of them are part of a continuous learning process.
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/drxdvs/drxdvs/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/drx347/drx347/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
