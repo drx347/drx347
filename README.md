@@ -122,10 +122,6 @@ Artificial intelligence and emerging technologies
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=46&pause=2000&color=02731B&center=true&vCenter=true&width=800&lines=Snake+Eating+My+Contributions" />
-</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/drx347/drx347/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
