@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=02731B&center=true&vCenter=true&width=800&lines=Hello+I'm+Faisal;Fullstack+Developer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Hello+I'm+Faisal;Fullstack+Developer;Tech+Enthusiast" />
 </h1>
 
 <table align="center">
@@ -52,7 +52,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1800&color=02731B&center=true&vCenter=true&width=800&lines=About+Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=About+Me" />
 </h3>
 
 
@@ -102,7 +102,7 @@ Artificial intelligence and emerging technologies
 </p>
 
 <p align="center">
-  <sub>Available for collaboration and interesting projects</sub>
+  <sub><b>Available for collaboration and interesting projects</b></sub>
 </p>
 
 ---
