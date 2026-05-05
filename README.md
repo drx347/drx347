@@ -107,9 +107,9 @@ Artificial intelligence and emerging technologies
 
 ---
 
-<p align="center">
-  <sub><i>Daily dose of inspiration — refresh for a new one.</i></sub>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=46&pause=2000&color=02731B&center=true&vCenter=true&width=800&lines=Quote+Of+The+Day" />
+</h3>
 
 <table align="center">
   <tr>
@@ -122,6 +122,7 @@ Artificial intelligence and emerging technologies
     </td>
   </tr>
 </table>
+
 ---
 
 <p align="center">
