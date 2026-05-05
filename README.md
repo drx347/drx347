@@ -115,8 +115,8 @@ Artificial intelligence and emerging technologies
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&borderColor=0d1117"
     alt="Quote of the day"
-    width="60%"
-    style="max-width: 1000px;"
+    width="75%"
+    style="max-width: 1200px;"
   />
 </p>
 
