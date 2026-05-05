@@ -116,7 +116,7 @@ but all of them are part of a continuous learning process.
 
 <p align="center">
   <img
-    src="./assets/quote-of-the-day.svg"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&borderColor=0d1117"
     alt="Quote of the day"
     width="100%"
     style="max-width: 1200px;"
