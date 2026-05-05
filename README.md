@@ -107,10 +107,10 @@ Artificial intelligence and emerging technologies
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=46&pause=2000&color=02731B&center=true&vCenter=true&width=800&lines=Daily+dose+of+Inspiration;—;Refresh+For+New+One. />
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=46&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Daily+dose+of+Inspiration;Refresh+For+New+One. />
 
-</p>
+</h3>
 
 <table align="center">
   <tr>
