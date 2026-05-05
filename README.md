@@ -2,15 +2,11 @@
   <img src="https://www.image2url.com/r2/default/gifs/1777968544806-9fa65cf2-2439-4f74-9173-2850c22e10b7.gif" width="100%" alt="banner" />
 </p>
 
-<p align="center">
-  <sub>Building useful things, one commit at a time.</sub>
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=02731B&center=true&vCenter=true&width=800&lines=Hello+I'm+Faisal;Fullstack+Developer;Tech+Enthusiast..." />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=02731B&center=true&vCenter=true&width=800&lines=Hello+I'm+Faisal;Fullstack+Developer;Tech+Enthusiast" />
 </h1>
 
-<table align="center">
+<table align="center" valign="middle">
   <tr>
     <td align="left" valign="middle">
       <a href="https://github.com/drx347">
@@ -31,12 +27,9 @@
 
 ---
 
-```text
-◇ Tech Stack
-▸ Frontend
-▸ Backend & Databases
-▸ Tools & Infrastructure
-```
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1800&color=02731B&center=true&vCenter=true&width=800&lines=Tech+Stack" />
+</h3>
 
 <p align="left"><strong>Frontend</strong></p>
 
@@ -58,8 +51,12 @@
 
 ---
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1800&color=02731B&center=true&vCenter=true&width=800&lines=About+Me" />
+</h3>
+
+
 ```text
-◇ About Me
 I build things I find interesting.
 Some are useful, some are experimental,
 but all of them are part of a continuous learning process.
@@ -72,14 +69,14 @@ but all of them are part of a continuous learning process.
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1800&color=02731B&center=true&vCenter=true&width=800&lines=Current+Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1800&color=02731B&center=true&vCenter=true&width=800&lines=Current+Focus+On" />
 </h3>
 
-<ul>
-  <li>Fullstack web development</li>
-  <li>Automation systems</li>
-  <li>Artificial intelligence and emerging technologies</li>
-</ul>
+```text
+Fullstack web development
+Automation systems
+Artificial intelligence and emerging technologies
+```
 
 ---
 
@@ -132,5 +129,3 @@ but all of them are part of a continuous learning process.
 <p align="center">
   <img src="https://raw.githubusercontent.com/drx347/drx347/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
