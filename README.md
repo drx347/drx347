@@ -28,7 +28,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1800&color=02731B&center=true&vCenter=true&width=800&lines=Tech+Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Tech+Stack" />
 </h3>
 
 <p align="left"><strong>Frontend</strong></p>
@@ -69,7 +69,7 @@ but all of them are part of a continuous learning process.
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1800&color=02731B&center=true&vCenter=true&width=800&lines=Current+Focus+On" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Current+Focus+On" />
 </h3>
 
 ```text
@@ -81,7 +81,7 @@ Artificial intelligence and emerging technologies
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1900&color=02731B&center=true&vCenter=true&width=800&lines=Github+Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Github+Stats" />
 </h3>
 
 <p align="center">
@@ -92,7 +92,7 @@ Artificial intelligence and emerging technologies
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=2000&color=02731B&center=true&vCenter=true&width=800&lines=Contact+Me+On" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Contact+Me+On" />
 </h3>
 
 <p align="center">
@@ -108,7 +108,7 @@ Artificial intelligence and emerging technologies
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=46&pause=2000&color=02731B&center=true&vCenter=true&width=800&lines=Quote+Of+The+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=46&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Quote+Of+The+Day" />
 </h3>
 
 <p align="center">
