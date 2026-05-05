@@ -108,14 +108,20 @@ Artificial intelligence and emerging technologies
 ---
 
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true&borderColor=0d1117"
-    alt="Quote of the day"
-    width="600"
-    style="max-width: 1200px;"
-  />
+  <sub><i>Daily dose of inspiration — refresh for a new one.</i></sub>
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 6px 10px;">
+      <img
+        src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&borderColor=0d1117"
+        alt="Quote of the day"
+        style="width: 100%; max-width: 820px; height: auto; border-radius: 14px;"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 <p align="center">
