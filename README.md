@@ -107,10 +107,6 @@ Artificial intelligence and emerging technologies
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=46&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Quote+Of+The+Day" />
-</h3>
-
 <p align="center">
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&borderColor=0d1117"
