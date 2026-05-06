@@ -76,6 +76,7 @@ but all of them are part of a continuous learning process.
 Fullstack web development
 Automation systems
 Artificial intelligence and emerging technologies
+Found bug on some website
 ```
 
 ---
