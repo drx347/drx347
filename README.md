@@ -9,9 +9,6 @@
 <table align="center" style="background: #ffffff; border: 1px solid #d0d7de;">
   <tr>
     <td align="left" valign="middle" style="padding: 16px;">
-      <a href="https://github.com/drx347">
-        <img src="https://komarev.com/ghpvc/?username=drx347&label=PROFILE%20VIEWS&color=02731B&style=for-the-badge&labelColor=ffffff" alt="profile views" />
-      </a>
       <a href="https://github.com/drx347?tab=followers">
         <img src="https://img.shields.io/github/followers/drx347?label=FOLLOWERS&style=for-the-badge&color=02731B&labelColor=ffffff&logo=github&logoColor=24292f" alt="github followers" />
       </a>
