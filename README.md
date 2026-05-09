@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+drxdvs+%F0%9F%91%8B;full-stack+developer;i+build+things+for+the+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+drx347+%F0%9F%91%8B;full-stack+developer;i+build+things+for+the+web" alt="Typing SVG" />
 
 <br/>
 
@@ -25,6 +25,8 @@
 
 <!-- Activity Graph — dark mode -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=drx347&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6#gh-dark-mode-only" />
+<!-- Activity Graph — light mode -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drx347&bg_color=ffffff&color=333&line=2F80ED&point=2F80ED&area_color=E1EEFF&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6#gh-light-mode-only" />
 
 ---
 
