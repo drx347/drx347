@@ -13,7 +13,7 @@
 
 <!-- GitHub Stats -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drx347/github-stats/master/generated/overview.svg">
   <img src="https://raw.githubusercontent.com/drx347/github-stats/master/generated/overview.svg">
 </picture>
 <picture>
