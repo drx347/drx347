@@ -3,24 +3,24 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Hello+I'm+Faisal;Fullstack+Developer;Lua+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Hello+I'm+Faisal;Fullstack+Developer;Tech+Enthusiast" />
 </h1>
 
-<table align="center">
+<table align="center" style="background: #ffffff; border: 1px solid #d0d7de;">
   <tr>
-    <td align="left" valign="middle">
+    <td align="left" valign="middle" style="padding: 16px;">
       <a href="https://github.com/drx347">
-        <img src="https://komarev.com/ghpvc/?username=drx347&label=PROFILE%20VIEWS&color=02731B&style=for-the-badge&labelColor=0d1117" alt="profile views" />
+        <img src="https://komarev.com/ghpvc/?username=drx347&label=PROFILE%20VIEWS&color=02731B&style=for-the-badge&labelColor=ffffff" alt="profile views" />
       </a>
       <a href="https://github.com/drx347?tab=followers">
-        <img src="https://img.shields.io/github/followers/drx347?label=FOLLOWERS&style=for-the-badge&color=02731B&labelColor=0d1117&logo=github" alt="github followers" />
+        <img src="https://img.shields.io/github/followers/drx347?label=FOLLOWERS&style=for-the-badge&color=02731B&labelColor=ffffff&logo=github&logoColor=24292f" alt="github followers" />
       </a>
       <a href="https://github.com/drx347/drx347">
-        <img src="https://img.shields.io/github/stars/drx347/drx347?label=STARS&style=for-the-badge&color=02731B&labelColor=0d1117&logo=github" alt="repo stars" />
+        <img src="https://img.shields.io/github/stars/drx347/drx347?label=STARS&style=for-the-badge&color=02731B&labelColor=ffffff&logo=github&logoColor=24292f" alt="repo stars" />
       </a>
     </td>
-    <td align="right" valign="middle">
-      <img src="https://lanyard.cnrad.dev/api/975269168184168539?bg=00000000&borderRadius=18px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." alt="discord status" />
+    <td align="right" valign="middle" style="padding: 16px;">
+      <img src="https://lanyard.cnrad.dev/api/975269168184168539?bg=ffffff&borderRadius=18px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." alt="discord status" />
     </td>
   </tr>
 </table>
@@ -48,6 +48,36 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux&theme=dark" />
 </p>
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=About+Me" />
+</h3>
+
+
+```text
+I build things I find interesting.
+Some are useful, some are experimental,
+but all of them are part of a continuous learning process.
+
+▸ Web applications
+▸ Automation and bots
+▸ Small experiments
+```
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Current+Focus+On" />
+</h3>
+
+```text
+Fullstack web development
+Automation systems
+Artificial intelligence and emerging technologies
+Found bug on some website
+```
 
 ---
 
