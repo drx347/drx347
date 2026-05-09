@@ -2,7 +2,7 @@
 
 <img src="image.png" width="100%" height="auto" alt="banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02731B,50:0b8f2a,100:2F80ED&height=150&section=header&text=drx347&fontSize=60&fontAlignY=35&animation=twinkling" width="100%" alt="drx347"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02731B,50:0b8f2a,100:5a1aff&height=150&section=header&text=drx347&fontSize=60&fontAlignY=35&animation=twinkling" width="100%" alt="drx347"/>
 
 <br/>
 
@@ -159,4 +159,4 @@ Let's connect and build something interesting.
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02731B,50:0b8f2a,100:2F80ED&height=130&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a02c2,50:4603e7,100:5a1aff&height=130&section=footer&animation=twinkling" width="100%"/>
