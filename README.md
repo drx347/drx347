@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Hello+I'm+Faisal;Fullstack+Developer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Hello+I'm+Faisal;Fullstack+Developer;Lua+Enthusiast" />
 </h1>
 
 <table align="center">
