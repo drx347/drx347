@@ -96,7 +96,7 @@ Found bug on some website
     </td>
     <td>
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drx347&layout=compact&langs_count=12&theme=github_dark&hide_border=false&border_color=30363d&title_color=02731B&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drx347&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=false&border_color=30363d&title_color=02731B&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600"
         alt="Most used languages"
         height="195"
       />
