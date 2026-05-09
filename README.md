@@ -89,14 +89,14 @@ Found bug on some website
   <tr>
     <td>
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=drx347&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&title_color=02731B&icon_color=02731B&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=drx347&show_icons=true&hide_border=false&border_color=d0d7de&title_color=02731B&icon_color=02731B&text_color=24292f&bg_color=ffffff&cache_seconds=21600"
         alt="drx347 GitHub statistics"
         height="195"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drx347&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=false&border_color=30363d&title_color=02731B&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drx347&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=false&border_color=d0d7de&title_color=02731B&text_color=24292f&bg_color=ffffff&cache_seconds=21600"
         alt="Most used languages"
         height="195"
       />
@@ -145,6 +145,8 @@ Found bug on some website
     </td>
   </tr>
 </table>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/drx347/drx347/output/github-contribution-grid-snake.svg" alt="snake animation" />
