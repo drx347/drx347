@@ -49,36 +49,6 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=About+Me" />
-</h3>
-
-
-```text
-I build things I find interesting.
-Some are useful, some are experimental,
-but all of them are part of a continuous learning process.
-
-▸ Web applications
-▸ Automation and bots
-▸ Small experiments
-```
-
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Current+Focus+On" />
-</h3>
-
-```text
-Fullstack web development
-Automation systems
-Artificial intelligence and emerging technologies
-Found bug on some website
-```
-
----
-
-<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Github+Stats" />
 </h3>
 
@@ -102,10 +72,7 @@ Found bug on some website
 </table>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=drx347&bg_color=0d1117&color=c9d1d9&line=02731B&point=ffffff&area=true&area_color=02731B&hide_border=false&border_color=30363d&title_color=02731B"
-    alt="GitHub contribution graph"
-    width="96%"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drx347&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6#gh-dark-mode-only" />
   />
 </p>
 
