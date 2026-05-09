@@ -85,9 +85,31 @@ Found bug on some website
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Github+Stats" />
 </h3>
 
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=drx347&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&title_color=02731B&icon_color=02731B&text_color=c9d1d9&bg_color=0d1117"
+        alt="drx347 GitHub statistics"
+        height="195"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=drx347&layout=compact&langs_count=12&theme=github_dark&hide_border=false&border_color=30363d&title_color=02731B&text_color=c9d1d9&bg_color=0d1117"
+        alt="Most used languages"
+        height="195"
+      />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=drx347&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drx347&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=drx347&bg_color=0d1117&color=c9d1d9&line=02731B&point=ffffff&area=true&area_color=02731B&hide_border=false&border_color=30363d&title_color=02731B"
+    alt="GitHub contribution graph"
+    width="96%"
+  />
 </p>
 
 ---
