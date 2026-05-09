@@ -65,12 +65,10 @@
       />
     </td>
     <td>
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drx347&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=false&border_color=d0d7de&title_color=02731B&text_color=24292f&bg_color=ffffff&cache_seconds=21600"
-        alt="Most used languages"
-        height="195"
-      />
-    </td>
+    <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg">
+</picture> 
   </tr>
 </table>
 
