@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=VCT330+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+drx347+%F0%9F%91%8B;full-stack+developer;i+build+things+for+the+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+drx347+%F0%9F%91%8B;full-stack+developer;i+build+things+for+the+web" alt="Typing SVG" />
 
 <br/>
 
@@ -12,14 +12,8 @@
 ---
 
 <!-- GitHub Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/overview.svg">
-  <img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/overview.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg">
-  <img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg">
-</picture>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drx347&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2F80ED&text_color=c9d1d9&icon_color=2F80ED&cache_seconds=21600" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drx347&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0d1117&title_color=2F80ED&text_color=c9d1d9&cache_seconds=21600" />
 
 ---
 
