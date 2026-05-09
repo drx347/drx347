@@ -52,36 +52,6 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=About+Me" />
-</h3>
-
-
-```text
-I build things I find interesting.
-Some are useful, some are experimental,
-but all of them are part of a continuous learning process.
-
-▸ Web applications
-▸ Automation and bots
-▸ Small experiments
-```
-
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Current+Focus+On" />
-</h3>
-
-```text
-Fullstack web development
-Automation systems
-Artificial intelligence and emerging technologies
-Found bug on some website
-```
-
----
-
-<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Github+Stats" />
 </h3>
 
