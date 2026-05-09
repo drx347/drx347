@@ -20,7 +20,7 @@
       </a>
     </td>
     <td align="right" valign="middle" style="padding: 16px;">
-      <img src="https://lanyard.cnrad.dev/api/975269168184168539?bg=ffffff&borderRadius=18px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." alt="discord status" />
+      <img src="https://lanyard.cnrad.dev/api/975269168184168539?&borderRadius=18px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." alt="discord status" />
     </td>
   </tr>
 </table>
