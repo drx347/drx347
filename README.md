@@ -6,8 +6,8 @@
 <br/>
 
 <!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/drx347?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=followers)](https://github.com/bimoraa)
-[![GitHub stars](https://img.shields.io/github/stars/drx347?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=stars)](https://github.com/bimoraa)
+[![GitHub followers](https://img.shields.io/github/followers/drx347?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=followers)](https://github.com/drx347)
+[![GitHub stars](https://img.shields.io/github/stars/drx347?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=stars)](https://github.com/drx347)
 
 ---
 
@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/drx347/github-stats/master/generated/overview.svg">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drx347/github-stats/master/generated/languages.svg">
   <img src="https://raw.githubusercontent.com/drx347/github-stats/master/generated/languages.svg">
 </picture>
 
@@ -32,7 +32,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drx347/drx347/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drx347/drx347/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/bimoraa/bimoraa/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/drx347/drx347/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -53,6 +53,6 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=bimoraa&style=flat&color=2F80ED&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=drx347&style=flat&color=2F80ED&label=profile+views" />
 
 </div>
