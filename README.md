@@ -40,7 +40,7 @@
 <p align="left"><strong>Backend & Databases</strong></p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,firebase,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,firebase,mysql&theme=dark" />
 </p>
 
 <p align="left"><strong>Tools & Infrastructure</strong></p>
