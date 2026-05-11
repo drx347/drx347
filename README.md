@@ -59,7 +59,7 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=drx347&show_icons=true&hide_border=false&border_color=d0d7de&title_color=02731B&icon_color=037ffc&text_color=00000&bg_color=ffffff&cache_seconds=21600"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=drx347&show_icons=true&hide_border=false&border_color=037ffc&title_color=02731B&icon_color=037ffc&text_color=00000&bg_color=ffffff&cache_seconds=21600"
         alt="drx347 GitHub statistics"
         height="195"
       />
