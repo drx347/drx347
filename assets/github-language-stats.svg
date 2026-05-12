@@ -1,0 +1,70 @@
+<svg width="460" height="312" viewBox="0 0 460 312" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">drx347 language statistics</title>
+  <desc id="desc">GitHub language usage calculated from repository file sizes.</desc>
+  <style>
+    .title { fill: #02731B; font: 700 18px Segoe UI, Ubuntu, Sans-Serif; }
+    .subtitle { fill: #57606a; font: 500 12px Segoe UI, Ubuntu, Sans-Serif; }
+    .label { fill: #24292f; font: 600 13px Segoe UI, Ubuntu, Sans-Serif; }
+    .value { fill: #57606a; font: 600 12px Segoe UI, Ubuntu, Sans-Serif; text-anchor: end; }
+  </style>
+  <rect x="0.5" y="0.5" width="459" height="311" rx="8" fill="#ffffff" stroke="#d0d7de" />
+  <text x="24" y="30" class="title">Most Used Languages</text>
+  <text x="24" y="50" class="subtitle">Calculated by file size (1.3 MB total)</text>
+  
+        <g transform="translate(24 64)">
+          <circle cx="6" cy="9" r="5" fill="#663399" />
+          <text x="20" y="14" class="label">CSS</text>
+          <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
+          <rect x="164" y="3" width="51" height="12" rx="6" fill="#663399" />
+          <text x="348" y="14" class="value">30.2%</text>
+        </g>
+        <g transform="translate(24 92)">
+          <circle cx="6" cy="9" r="5" fill="#f1e05a" />
+          <text x="20" y="14" class="label">JavaScript</text>
+          <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
+          <rect x="164" y="3" width="39" height="12" rx="6" fill="#f1e05a" />
+          <text x="348" y="14" class="value">22.8%</text>
+        </g>
+        <g transform="translate(24 120)">
+          <circle cx="6" cy="9" r="5" fill="#3572A5" />
+          <text x="20" y="14" class="label">Python</text>
+          <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
+          <rect x="164" y="3" width="36" height="12" rx="6" fill="#3572A5" />
+          <text x="348" y="14" class="value">21.2%</text>
+        </g>
+        <g transform="translate(24 148)">
+          <circle cx="6" cy="9" r="5" fill="#3178c6" />
+          <text x="20" y="14" class="label">TypeScript</text>
+          <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
+          <rect x="164" y="3" width="30" height="12" rx="6" fill="#3178c6" />
+          <text x="348" y="14" class="value">17.8%</text>
+        </g>
+        <g transform="translate(24 176)">
+          <circle cx="6" cy="9" r="5" fill="#1f6feb" />
+          <text x="20" y="14" class="label">Lua</text>
+          <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
+          <rect x="164" y="3" width="5" height="12" rx="6" fill="#1f6feb" />
+          <text x="348" y="14" class="value">3.0%</text>
+        </g>
+        <g transform="translate(24 204)">
+          <circle cx="6" cy="9" r="5" fill="#8957e5" />
+          <text x="20" y="14" class="label">Luau</text>
+          <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
+          <rect x="164" y="3" width="5" height="12" rx="6" fill="#8957e5" />
+          <text x="348" y="14" class="value">2.7%</text>
+        </g>
+        <g transform="translate(24 232)">
+          <circle cx="6" cy="9" r="5" fill="#e34c26" />
+          <text x="20" y="14" class="label">HTML</text>
+          <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
+          <rect x="164" y="3" width="4" height="12" rx="6" fill="#e34c26" />
+          <text x="348" y="14" class="value">2.4%</text>
+        </g>
+        <g transform="translate(24 260)">
+          <circle cx="6" cy="9" r="5" fill="#cf222e" />
+          <text x="20" y="14" class="label">PowerShell</text>
+          <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
+          <rect x="164" y="3" width="4" height="12" rx="6" fill="#cf222e" />
+          <text x="348" y="14" class="value">0.0%</text>
+        </g>
+</svg>
