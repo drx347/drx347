@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,firebase,mysql&theme=dark" />
 </p>
 
 <p align="center">
