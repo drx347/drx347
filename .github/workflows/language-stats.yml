@@ -27,11 +27,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
-          OUTPUT_FILE: assets/github-language-stats.svg
+          OVERVIEW_OUTPUT_FILE: assets/github-overview.svg
+          LANGUAGE_OUTPUT_FILE: assets/github-languages.svg
         run: node scripts/generate-language-stats.mjs
 
       - name: Commit generated SVG
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update language stats svg"
-          file_pattern: assets/github-language-stats.svg
+          commit_message: "chore: update github stats svgs"
+          file_pattern: assets/github-*.svg

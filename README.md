@@ -20,7 +20,7 @@
       </a>
     </td>
     <td align="right" valign="middle" style="padding: 16px;">
-      <img src="https://lanyard.cnrad.dev/api/975269168184168539?&borderRadius=18px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." alt="discord status" />
+      <img src="https://lanyard.cnrad.dev/api/975269168184168539?bg=ffffff&borderRadius=18px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." alt="discord status" />
     </td>
   </tr>
 </table>
@@ -49,32 +49,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Github+Stats" />
 </h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=drx347&show_icons=true&hide_border=false&border_color=d0d7de&title_color=02731B&icon_color=02731B&text_color=24292f&bg_color=ffffff&cache_seconds=21600"
-        alt="drx347 GitHub statistics"
-        height="195"
-      />
-    </td>
-    <td>
-      <img
-        src="./assets/github-language-stats.svg"
-        alt="Most used languages (calculated by file size)"
-        height="195"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+<img src="./assets/github-overview.svg" width="49%" alt="drx347 GitHub overview" />
+<img src="./assets/github-languages.svg" width="49%" alt="Most used languages calculated by file size" />
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=drx347&bg_color=0d1117&color=c9d1d9&line=02731B&point=ffffff&area=true&area_color=02731B&hide_border=false&border_color=30363d&title_color=02731B"
-    alt="GitHub contribution graph"
-    width="96%"
-  />
-</p>
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=drx347&bg_color=0d1117&color=02731B&line=02731B&point=ffffff&area=true&area_color=02731B&hide_border=true&custom_title=Activity&radius=6"
+  alt="GitHub contribution graph"
+  width="98%"
+/>
+
+</div>
 
 ---
 
