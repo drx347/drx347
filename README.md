@@ -31,21 +31,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Tech+Stack" />
 </h3>
 
-<p align="left"><strong>Frontend</strong></p>
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css&theme=dark" />
 </p>
 
-<p align="left"><strong>Backend & Databases</strong></p>
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,firebase,mysql&theme=dark" />
 </p>
 
-<p align="left"><strong>Tools & Infrastructure</strong></p>
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux&theme=dark" />
 </p>
 
