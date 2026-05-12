@@ -1,0 +1,37 @@
+name: Generate language stats
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate SVG from file-size language data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          OUTPUT_FILE: assets/github-language-stats.svg
+        run: node scripts/generate-language-stats.mjs
+
+      - name: Commit generated SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update language stats svg"
+          file_pattern: assets/github-language-stats.svg
