@@ -64,22 +64,6 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Contact+Me+On" />
-</h3>
-
-<p align="center" valign="middle">
-  <a href="https://discord.com/users/975269168184168539">
-    <img src="https://img.shields.io/badge/Discord-exotickic-111827?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <sub><b>Available for collaboration and interesting projects</b></sub>
-</p>
-
----
-
-<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1600&color=02731B&center=true&vCenter=true&width=800&lines=Daily+dose+of+Inspiration;Refresh+For+New+One." />
 </h3>
 
