@@ -42,7 +42,7 @@
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#f1e05a">
         <animate attributeName="width" values="0;35" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">23.1%</text>
+      <text x="348" y="12" class="bar-value">23.2%</text>
     </g>
     <g transform="translate(24 106)">
       <circle cx="5" cy="7" r="4.5" fill="#3572A5" />
