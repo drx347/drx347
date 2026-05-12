@@ -52,7 +52,6 @@
 <div align="center">
 <img src="./assets/github-overview.svg" width="49%" alt="drx347 GitHub overview" />
 <img src="./assets/github-languages.svg" width="49%" alt="Most used languages calculated by file size" />
-
 <br/><br/>
 
 <img
@@ -60,7 +59,6 @@
   alt="GitHub contribution graph"
   width="98%"
 />
-
 </div>
 
 ---
