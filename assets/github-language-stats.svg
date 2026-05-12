@@ -16,42 +16,42 @@
           <text x="20" y="14" class="label">CSS</text>
           <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
           <rect x="164" y="3" width="51" height="12" rx="6" fill="#663399" />
-          <text x="348" y="14" class="value">30.2%</text>
+          <text x="348" y="14" class="value">30.0%</text>
         </g>
         <g transform="translate(24 92)">
           <circle cx="6" cy="9" r="5" fill="#f1e05a" />
           <text x="20" y="14" class="label">JavaScript</text>
           <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
           <rect x="164" y="3" width="39" height="12" rx="6" fill="#f1e05a" />
-          <text x="348" y="14" class="value">22.8%</text>
+          <text x="348" y="14" class="value">23.1%</text>
         </g>
         <g transform="translate(24 120)">
           <circle cx="6" cy="9" r="5" fill="#3572A5" />
           <text x="20" y="14" class="label">Python</text>
           <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
           <rect x="164" y="3" width="36" height="12" rx="6" fill="#3572A5" />
-          <text x="348" y="14" class="value">21.2%</text>
+          <text x="348" y="14" class="value">21.1%</text>
         </g>
         <g transform="translate(24 148)">
           <circle cx="6" cy="9" r="5" fill="#3178c6" />
           <text x="20" y="14" class="label">TypeScript</text>
           <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
           <rect x="164" y="3" width="30" height="12" rx="6" fill="#3178c6" />
-          <text x="348" y="14" class="value">17.8%</text>
+          <text x="348" y="14" class="value">17.7%</text>
         </g>
         <g transform="translate(24 176)">
           <circle cx="6" cy="9" r="5" fill="#1f6feb" />
           <text x="20" y="14" class="label">Lua</text>
           <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
           <rect x="164" y="3" width="5" height="12" rx="6" fill="#1f6feb" />
-          <text x="348" y="14" class="value">3.0%</text>
+          <text x="348" y="14" class="value">2.9%</text>
         </g>
         <g transform="translate(24 204)">
           <circle cx="6" cy="9" r="5" fill="#8957e5" />
           <text x="20" y="14" class="label">Luau</text>
           <rect x="164" y="3" width="170" height="12" rx="6" fill="#eaeef2" />
           <rect x="164" y="3" width="5" height="12" rx="6" fill="#8957e5" />
-          <text x="348" y="14" class="value">2.7%</text>
+          <text x="348" y="14" class="value">2.6%</text>
         </g>
         <g transform="translate(24 232)">
           <circle cx="6" cy="9" r="5" fill="#e34c26" />
