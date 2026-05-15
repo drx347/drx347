@@ -24,7 +24,7 @@
     <animate attributeName="opacity" values="0;1" begin=".95s" dur=".45s" fill="freeze" />
     <animateTransform attributeName="transform" type="translate" values="0 8;0 0" begin=".95s" dur=".45s" fill="freeze" />
     <text x="24" y="30" class="title">Most Used Languages</text>
-    <text x="24" y="50" class="subtitle">calculated by file size - 2.0 MB total</text>
+    <text x="24" y="50" class="subtitle">calculated by file size - 2.1 MB total</text>
     
     <g transform="translate(24 66)">
       <circle cx="5" cy="7" r="4.5" fill="#02731B" />
@@ -33,7 +33,7 @@
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#02731B">
         <animate attributeName="width" values="0;42" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">28.2%</text>
+      <text x="348" y="12" class="bar-value">27.8%</text>
     </g>
     <g transform="translate(24 86)">
       <circle cx="5" cy="7" r="4.5" fill="#663399" />
@@ -42,7 +42,7 @@
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#663399">
         <animate attributeName="width" values="0;30" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">20.2%</text>
+      <text x="348" y="12" class="bar-value">20.0%</text>
     </g>
     <g transform="translate(24 106)">
       <circle cx="5" cy="7" r="4.5" fill="#3178c6" />
@@ -51,7 +51,7 @@
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#3178c6">
         <animate attributeName="width" values="0;28" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">18.5%</text>
+      <text x="348" y="12" class="bar-value">18.7%</text>
     </g>
     <g transform="translate(24 126)">
       <circle cx="5" cy="7" r="4.5" fill="#f1e05a" />
@@ -60,7 +60,7 @@
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#f1e05a">
         <animate attributeName="width" values="0;23" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">15.6%</text>
+      <text x="348" y="12" class="bar-value">15.4%</text>
     </g>
     <g transform="translate(24 146)">
       <circle cx="5" cy="7" r="4.5" fill="#3572A5" />
@@ -69,7 +69,7 @@
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#3572A5">
         <animate attributeName="width" values="0;21" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">14.0%</text>
+      <text x="348" y="12" class="bar-value">13.8%</text>
     </g>
     <g transform="translate(24 166)">
       <circle cx="5" cy="7" r="4.5" fill="#8957e5" />
@@ -78,7 +78,7 @@
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#8957e5">
         <animate attributeName="width" values="0;4" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">1.8%</text>
+      <text x="348" y="12" class="bar-value">1.7%</text>
     </g>
 
   </g>
