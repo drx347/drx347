@@ -33,16 +33,16 @@
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#02731B">
         <animate attributeName="width" values="0;41" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">27.6%</text>
+      <text x="348" y="12" class="bar-value">27.5%</text>
     </g>
     <g transform="translate(24 86)">
       <circle cx="5" cy="7" r="4.5" fill="#663399" />
       <text x="18" y="12" class="label">CSS</text>
       <rect x="150" y="1" width="150" height="11" rx="5.5" fill="#eaeef2" />
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#663399">
-        <animate attributeName="width" values="0;31" begin="1.05s" dur=".7s" fill="freeze" />
+        <animate attributeName="width" values="0;30" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">20.4%</text>
+      <text x="348" y="12" class="bar-value">20.3%</text>
     </g>
     <g transform="translate(24 106)">
       <circle cx="5" cy="7" r="4.5" fill="#3178c6" />
@@ -51,7 +51,7 @@
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#3178c6">
         <animate attributeName="width" values="0;28" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">18.6%</text>
+      <text x="348" y="12" class="bar-value">18.5%</text>
     </g>
     <g transform="translate(24 126)">
       <circle cx="5" cy="7" r="4.5" fill="#f1e05a" />
@@ -60,14 +60,14 @@
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#f1e05a">
         <animate attributeName="width" values="0;23" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
-      <text x="348" y="12" class="bar-value">15.3%</text>
+      <text x="348" y="12" class="bar-value">15.6%</text>
     </g>
     <g transform="translate(24 146)">
       <circle cx="5" cy="7" r="4.5" fill="#3572A5" />
       <text x="18" y="12" class="label">Python</text>
       <rect x="150" y="1" width="150" height="11" rx="5.5" fill="#eaeef2" />
       <rect x="150" y="1" width="0" height="11" rx="5.5" fill="#3572A5">
-        <animate attributeName="width" values="0;21" begin="1.05s" dur=".7s" fill="freeze" />
+        <animate attributeName="width" values="0;20" begin="1.05s" dur=".7s" fill="freeze" />
       </rect>
       <text x="348" y="12" class="bar-value">13.7%</text>
     </g>

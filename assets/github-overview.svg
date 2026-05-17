@@ -28,11 +28,11 @@
     
     <g transform="translate(24 72)">
       <text x="0" y="0" class="small">Repositories</text>
-      <text x="0" y="27" class="value">14</text>
+      <text x="0" y="27" class="value">16</text>
     </g>
     <g transform="translate(234 72)">
       <text x="0" y="0" class="small">Stars</text>
-      <text x="0" y="27" class="value">14</text>
+      <text x="0" y="27" class="value">16</text>
     </g>
     <g transform="translate(24 128)">
       <text x="0" y="0" class="small">Followers</text>
