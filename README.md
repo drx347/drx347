@@ -12,9 +12,6 @@
       <a href="https://github.com/drx347">
         <img src="https://komarev.com/ghpvc/?username=drx347&label=PROFILE%20VIEWS&color=02731B&style=for-the-badge&labelColor=ffffff" alt="profile views" />
       </a>
-      <a href="https://github.com/drx347?tab=followers">
-        <img src="https://img.shields.io/github/followers/drx347?label=FOLLOWERS&style=for-the-badge&color=02731B&labelColor=ffffff&logo=github&logoColor=24292f" alt="github followers" />
-      </a>
       <a href="https://github.com/drx347/drx347">
         <img src="https://img.shields.io/github/stars/drx347/drx347?label=STARS&style=for-the-badge&color=02731B&labelColor=ffffff&logo=github&logoColor=24292f" alt="repo stars"/>
       </a>
